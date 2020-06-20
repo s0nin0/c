@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\source\repos\таймер\таймер\source.cpp(12): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\user\source\repos\таймер\таймер\source.cpp(15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  таймер.vcxproj -> C:\Users\User\source\repos\таймер\Debug\таймер.exe

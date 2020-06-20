@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\source\repos\создание_слов\создание_слов\source.cpp(3): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\user\source\repos\создание_слов\создание_слов\source.cpp(4): warning C4101: c: неиспользованная локальная переменная
+  создание_слов.vcxproj -> C:\Users\User\source\repos\создание_слов\Debug\создание_слов.exe

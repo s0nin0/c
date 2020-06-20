@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project27\project27\source.cpp : warning C4335: Обнаружен файл в формате Mac: преобразуйте исходный файл в формат DOS или UNIX
+c:\users\user\source\repos\project27\project27\source.cpp(1): error C2008: #: не требуется в макроопределении

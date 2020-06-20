@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\user\source\repos\списки\списки\source.cpp(333): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note:  см. объявление "strcpy"
+c:\users\user\source\repos\списки\списки\source.cpp(334): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note:  см. объявление "strcpy"
+c:\users\user\source\repos\списки\списки\source.cpp(335): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note:  см. объявление "strcpy"
+c:\users\user\source\repos\списки\списки\source.cpp(345): warning C4101: a: неиспользованная локальная переменная
