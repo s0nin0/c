@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project30\project30\source.cpp(164): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\user\source\repos\project30\project30\source.cpp(157): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\user\source\repos\project30\project30\source.cpp(82): note: выполняется компиляция ссылки на экземпляр шаблон функции "void DList<shop>::Remove(uint)"
+  c:\users\user\source\repos\project30\project30\source.cpp(50): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\user\source\repos\project30\project30\source.cpp(348): note: выполняется компиляция ссылки на экземпляр шаблон функции "DList<shop>::DList(void)"
+  c:\users\user\source\repos\project30\project30\source.cpp(348): note: выполняется компиляция ссылки на экземпляр шаблон класс "DList<shop>"
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,struct shop const &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABUshop@@@Z) в функции "public: void __thiscall DList<struct shop>::print(void)const " (?print@?$DList@Ushop@@@@QBEXXZ)
+C:\Users\User\source\repos\Project30\Debug\Project30.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
