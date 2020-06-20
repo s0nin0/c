@@ -1,0 +1,23 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project35\project35\source.cpp(154): warning C4812: устаревший стиль объявления: используйте "Vector<T>::Vector" как альтернативу
+c:\users\user\source\repos\project35\project35\source.cpp(162): warning C4812: устаревший стиль объявления: используйте "Vector<T>::Vector" как альтернативу
+c:\users\user\source\repos\project35\project35\source.cpp(283): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\user\source\repos\project35\project35\source.cpp(285): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\user\source\repos\project35\project35\source.cpp(154): warning C4812: устаревший стиль объявления: используйте "Vector<int>::Vector" как альтернативу
+  c:\users\user\source\repos\project35\project35\source.cpp(155): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\user\source\repos\project35\project35\source.cpp(292): note: выполняется компиляция ссылки на экземпляр шаблон функции "Vector<int>::Vector(int,T *)"
+          with
+          [
+              T=int
+          ]
+  c:\users\user\source\repos\project35\project35\source.cpp(292): note: выполняется компиляция ссылки на экземпляр шаблон класс "Vector<int>"
+c:\users\user\source\repos\project35\project35\source.cpp(162): warning C4812: устаревший стиль объявления: используйте "Vector<int>::Vector" как альтернативу
+  c:\users\user\source\repos\project35\project35\source.cpp(163): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\user\source\repos\project35\project35\source.cpp(280): note: выполняется компиляция ссылки на экземпляр шаблон функции "Vector<int>::Vector(const Vector<int> &)"
+  c:\users\user\source\repos\project35\project35\source.cpp(155): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\user\source\repos\project35\project35\source.cpp(292): note: выполняется компиляция ссылки на экземпляр шаблон функции "Vector<int>::Vector(int,T *)"
+          with
+          [
+              T=int
+          ]
+  Project35.vcxproj -> C:\Users\User\source\repos\Project35\Debug\Project35.exe

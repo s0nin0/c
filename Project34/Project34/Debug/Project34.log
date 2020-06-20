@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project34\project34\source.cpp(14): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+  Project34.vcxproj -> C:\Users\User\source\repos\Project34\Debug\Project34.exe
